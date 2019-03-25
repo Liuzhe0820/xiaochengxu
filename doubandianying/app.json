@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/subject/subject",
+    "pages/user/user"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "asstts/image/index.png",
+        "selectedIconPath": "asstts/image/index-active.png"
+      },
+      {
+        "pagePath": "pages/subject/subject",
+        "text": "分类",
+        "iconPath": "asstts/image/subject.png",
+        "selectedIconPath": "asstts/image/subject-active.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "用户",
+        "iconPath": "asstts/image/user.png",
+        "selectedIconPath": "asstts/image/user-active.png"
+      }
+    ]
+  }
+}
